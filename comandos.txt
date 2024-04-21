@@ -1,0 +1,7 @@
+Comando		Aplicación
+clear		Limpiar pantalla
+git log		mostrar el log
+git status	muetra el estatus de trabajo
+ls			directorio
+
+
