@@ -1,8 +1,14 @@
 Comando					Aplicación
 clear					Limpiar pantalla
+git add .               Agrega todos los archivos pendientes
 git add archivo.ext.	agrega el archivo para commit
+git branch login        crea una rama: "login"
+git checkout id         Mueve el puntero a ese commit
 git commit -m "coment"	agrega Commit
 git log					mostrar el log
+git reset               para borrar lo no commit
+git reset -hard         para borrar inclusive archivos con Commit
+git swicth login        para cambiarse a la rama "login"              
 git status				muestra el estatus de trabajo
 ls						directorio
 
