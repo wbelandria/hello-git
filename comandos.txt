@@ -3,6 +3,7 @@ clear					Limpiar pantalla
 git add .               Agrega todos los archivos pendientes
 git add archivo.ext.	agrega el archivo para commit
 git branch login        crea una rama: "login"
+git branch -d login     eliminar la rama: "login"
 git checkout id         Mueve el puntero a ese commit
 git commit -m "coment"	agrega Commit
 git log					mostrar el log
