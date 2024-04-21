@@ -8,7 +8,7 @@ git commit -m "coment"	agrega Commit
 git log					mostrar el log
 git reset               para borrar lo no commit
 git reset -hard         para borrar inclusive archivos con Commit
-git swicth login        para cambiarse a la rama "login"              
+git switch login        para cambiarse a la rama "login"              
 git status				muestra el estatus de trabajo
 ls						directorio
 
