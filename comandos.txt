@@ -1,7 +1,8 @@
-Comando		Aplicación
-clear		Limpiar pantalla
-git log		mostrar el log
-git status	muetra el estatus de trabajo
-ls			directorio
+Comando					Aplicación
+clear					Limpiar pantalla
+git add archivo.ext.	agrega el archivo para commit
+git log					mostrar el log
+git status				muestra el estatus de trabajo
+ls						directorio
 
 
