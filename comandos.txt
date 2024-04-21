@@ -6,6 +6,7 @@ git branch login        crea una rama: "login"
 git checkout id         Mueve el puntero a ese commit
 git commit -m "coment"	agrega Commit
 git log					mostrar el log
+git merge main          Fusiona los archivos de la main en login
 git reset               para borrar lo no commit
 git reset -hard         para borrar inclusive archivos con Commit
 git switch login        para cambiarse a la rama "login"              
