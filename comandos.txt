@@ -1,8 +1,10 @@
 Comando					Aplicación
 clear					Limpiar pantalla
 git add archivo.ext.	agrega el archivo para commit
+git commit -m "coment"	agrega Commit
 git log					mostrar el log
 git status				muestra el estatus de trabajo
 ls						directorio
+
 
 
