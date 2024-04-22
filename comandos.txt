@@ -22,5 +22,8 @@ ls						directorio
 Para remoto
 git remote add origin https://github.com/wbelandria/hello-git.git
 git branch -M main
-git push -u origin main     Para subir los archivos
+git push -u origin main     Para subir los archivos por primera vez
+git push                    para subir los archivos posteriormente
+git fetch                   Para descargarse el historial de cambios
+
 
