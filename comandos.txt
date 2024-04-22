@@ -26,4 +26,6 @@ git push -u origin main     Para subir los archivos por primera vez
 git push                    para subir los archivos posteriormente
 git fetch                   Para descargarse el historial de cambios
 
-
+Para clonar: Desde GitHub
+Fork
+Pull request
