@@ -19,4 +19,8 @@ git status				muestra el estatus de trabajo
 ls						directorio
 
 
+Para remoto
+git remote add origin https://github.com/wbelandria/hello-git.git
+git branch -M main
+git push -u origin main     Para subir los archivos
 
